@@ -1,0 +1,7 @@
+name: PAPIFormatter
+version: @version@
+main: me.loidsemus.papiformatter.PAPIFormatter
+api-version: '1.13'
+authors: [loidsemus]
+depend:
+  - PlaceholderAPI
